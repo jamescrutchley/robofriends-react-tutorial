@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/robotfriends-react-tutorial/precache-manifest.e525581ab10535a1e55c55c3eb0e4c07.js"
+  "/robofriends-react-tutorial/precache-manifest.80fbfc373169251cc7bc656d81cb4821.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/robotfriends-react-tutorial/index.html", {
+workbox.routing.registerNavigationRoute("/robofriends-react-tutorial/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

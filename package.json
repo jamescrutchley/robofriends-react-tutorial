@@ -1,6 +1,6 @@
 {
   "name": "robofriends-react-tutorial",
-  "homepage": "https://jamescrutchley.github.io/robofriends-react-tutorial/",
+  "homepage": "https://jamescrutchley.github.io/robofriends-react-tutorial",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
@@ -22,7 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -b main"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

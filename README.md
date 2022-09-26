@@ -17,4 +17,5 @@ This project served as an introduction to many of the fundamental aspects of Rea
 
 ### Future changes:
 - [ ] Refactor: class components to functional components
+- [ ] Remove double-scroll bar
 

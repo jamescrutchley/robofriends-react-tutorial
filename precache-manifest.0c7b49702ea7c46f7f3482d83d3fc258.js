@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "9a6a9ebdc7d6e448e206",
-    "url": "/robofriends-react-tutorial/static/css/main.d074d215.chunk.css"
+    "revision": "d4acba4e4c0316036d71",
+    "url": "/robofriends-react-tutorial/static/css/main.843fdac6.chunk.css"
   },
   {
-    "revision": "9a6a9ebdc7d6e448e206",
+    "revision": "d4acba4e4c0316036d71",
     "url": "/robofriends-react-tutorial/static/js/main.0b43d0b7.chunk.js"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/robofriends-react-tutorial/static/media/BAUHS93.ba85c44c.TTF"
   },
   {
-    "revision": "6e3f5e0c42d8233449ae2fb6839c76d2",
+    "revision": "989d906a3a2536f3dd473b9d5a56cea8",
     "url": "/robofriends-react-tutorial/index.html"
   }
 ];

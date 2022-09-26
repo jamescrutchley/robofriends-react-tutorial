@@ -1,5 +1,5 @@
 {
-  "main.css": "/robofriends-react-tutorial/static/css/main.d074d215.chunk.css",
+  "main.css": "/robofriends-react-tutorial/static/css/main.843fdac6.chunk.css",
   "main.js": "/robofriends-react-tutorial/static/js/main.0b43d0b7.chunk.js",
   "main.js.map": "/robofriends-react-tutorial/static/js/main.0b43d0b7.chunk.js.map",
   "runtime~main.js": "/robofriends-react-tutorial/static/js/runtime~main.77439bdf.js",
@@ -10,9 +10,9 @@
   "static/js/3.d51c813c.chunk.js": "/robofriends-react-tutorial/static/js/3.d51c813c.chunk.js",
   "static/js/3.d51c813c.chunk.js.map": "/robofriends-react-tutorial/static/js/3.d51c813c.chunk.js.map",
   "index.html": "/robofriends-react-tutorial/index.html",
-  "precache-manifest.416392cd99d6086163cbf3854619410a.js": "/robofriends-react-tutorial/precache-manifest.416392cd99d6086163cbf3854619410a.js",
+  "precache-manifest.0c7b49702ea7c46f7f3482d83d3fc258.js": "/robofriends-react-tutorial/precache-manifest.0c7b49702ea7c46f7f3482d83d3fc258.js",
   "service-worker.js": "/robofriends-react-tutorial/service-worker.js",
   "static/css/2.14f37c3a.chunk.css.map": "/robofriends-react-tutorial/static/css/2.14f37c3a.chunk.css.map",
-  "static/css/main.d074d215.chunk.css.map": "/robofriends-react-tutorial/static/css/main.d074d215.chunk.css.map",
+  "static/css/main.843fdac6.chunk.css.map": "/robofriends-react-tutorial/static/css/main.843fdac6.chunk.css.map",
   "static/media/App.css": "/robofriends-react-tutorial/static/media/BAUHS93.ba85c44c.TTF"
 }

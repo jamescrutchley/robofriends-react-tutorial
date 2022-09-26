@@ -5,7 +5,7 @@ A Create React App project via 'The Complete Web Developer in 2022: Zero to Mast
 ---
 
 This project served as an introduction to many of the fundamental aspects of React development: 
-- (conditional) rendering of components
+- (Conditional) rendering of components
 - Passing of props
 - State/lifecycle
 - Event handling
